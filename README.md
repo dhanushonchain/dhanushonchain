@@ -5,7 +5,6 @@
 
 [![dhanushonchain@gmail.com](https://img.shields.io/badge/dhanushonchain@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhanushonchain@gmail.com)
 [![@dhanushonchain](https://img.shields.io/badge/%40dhanushonchain-black?style=flat&logo=x&logoColor=white)](https://x.com/dhanushonchain)
-[![dhanushonchain](https://img.shields.io/badge/dhanushonchain-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhanushonchain)
 
 
 ## About Me
@@ -48,7 +47,6 @@ I'm always open to collaborating on **Blockchain Engineering**, **Backend System
 
 - **Email:** [dhanushonchain@gmail.com](mailto:dhanushonchain@gmail.com)
 - **Twitter:** [@dhanushonchain](https://x.com/dhanushonchain)
-- **GitHub:** [github.com/dhanushonchain](https://github.com/dhanushonchain)
 
 ---
 
