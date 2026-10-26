@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Dhanush Yangola
+# Hi, I'm Dhanush Yangola
 
-### 🚀 Blockchain Engineer | Backend Developer | Web3 Builder
+### Blockchain Engineer | Backend Developer | Web3 Builder
 **Specializing in Stellar • Starknet • Python • AI/LLM Integration**
 
 [![Email](https://img.shields.io/badge/Email-dhanushonchain@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhanushonchain@gmail.com)
@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-dhanushonchain-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhanushonchain)
 
 
-## 🧑‍💻 About Me
+## About Me
 
 I am a **Computer Science student** and **Web3 Engineer** with over 2 years of experience in the blockchain ecosystem. Unlike traditional developers, I bring deep **community-led growth insights** to my engineering process, having previously led community and marketing strategies for **Stellar India** and **YieldFi**.
 
@@ -16,7 +16,7 @@ I focus on building scalable **backend systems**, **blockchain integrations**, a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dhanushonchain&show_icons=true&custom_title=dhanushonchain%20GitHub%20Stats&theme=dark&card_width=440" width="47%" alt="dhanushonchain GitHub Stats">
@@ -25,7 +25,7 @@ I focus on building scalable **backend systems**, **blockchain integrations**, a
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Stellar India** | *Social & Community Lead* (1 Year)
 - Managed ecosystem growth and technical community engagement for Stellar India.
@@ -42,13 +42,13 @@ I focus on building scalable **backend systems**, **blockchain integrations**, a
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 I'm always open to collaborating on **Blockchain Engineering**, **Backend Systems**, and **Web3 AI** projects.
 
-- 📧 **Email:** [dhanushonchain@gmail.com](mailto:dhanushonchain@gmail.com)
-- 🐦 **Twitter:** [@dhanushonchain](https://x.com/dhanushonchain)
-- 💼 **GitHub:** [github.com/dhanushonchain](https://github.com/dhanushonchain)
+- **Email:** [dhanushonchain@gmail.com](mailto:dhanushonchain@gmail.com)
+- **Twitter:** [@dhanushonchain](https://x.com/dhanushonchain)
+- **GitHub:** [github.com/dhanushonchain](https://github.com/dhanushonchain)
 
 ---
 
