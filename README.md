@@ -7,7 +7,6 @@
 [![X (Twitter)](https://img.shields.io/badge/X-%40dhanushonchain-black?style=flat&logo=x&logoColor=white)](https://x.com/dhanushonchain)
 [![GitHub](https://img.shields.io/badge/GitHub-dhanushonchain-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhanushonchain)
 
----
 
 ## 🧑‍💻 About Me
 
@@ -19,7 +18,7 @@ I focus on building scalable **backend systems**, **blockchain integrations**, a
 
 ## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanushonchain&show_icons=true&theme=transparent&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushonchain&layout=compact&theme=transparent&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushonchain&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanushonchain&show_icons=true)
 ---
 
 ## 💼 Experience
