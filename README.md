@@ -18,7 +18,7 @@ I focus on building scalable **backend systems**, **blockchain integrations**, a
 
 ## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanushonchain&show_icons=true&custom_title=dhanushonchain's%20GitHub%20Stats) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushonchain&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanushonchain&show_icons=true&custom_title=dhanushonchain%20GitHub%20Stats) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushonchain&layout=compact)
 ---
 
 ## 💼 Experience
