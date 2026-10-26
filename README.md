@@ -1,7 +1,6 @@
 # Hi, I'm Dhanush Yangola
 
 ### Blockchain Engineer | Backend Developer | Web3 Builder
-**Specializing in Stellar • Starknet • Python • AI/LLM Integration**
 
 ## About Me
 
