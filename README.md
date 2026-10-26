@@ -3,9 +3,9 @@
 ### 🚀 Blockchain Engineer | Backend Developer | Web3 Builder
 **Specializing in Stellar • Starknet • Python • AI/LLM Integration**
 
-[![Email](https://img.shields.io/badge/Email-yangoladhanush@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yangoladhanush@gmail.com)
-[![X (Twitter)](https://img.shields.io/badge/X-%40Dhanush_devx-black?style=flat&logo=x&logoColor=white)](https://x.com/Dhanush_devx)
-[![GitHub](https://img.shields.io/badge/GitHub-dhanush--devx-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhanush-devx)
+[![Email](https://img.shields.io/badge/Email-dhanushonchain@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhanushonchain@gmail.com)
+[![X (Twitter)](https://img.shields.io/badge/X-%40dhanushonchain-black?style=flat&logo=x&logoColor=white)](https://x.com/dhanushonchain)
+[![GitHub](https://img.shields.io/badge/GitHub-dhanushonchain-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhanushonchain)
 
 ---
 
@@ -53,9 +53,9 @@ I focus on building scalable **backend systems**, **blockchain integrations**, a
 
 I'm always open to collaborating on **Blockchain Engineering**, **Backend Systems**, and **Web3 AI** projects.
 
-- 📧 **Email:** [yangoladhanush@gmail.com](mailto:yangoladhanush@gmail.com)
-- 🐦 **Twitter:** [@Dhanush_devx](https://x.com/ushiki_kirigawa)
-- 💼 **GitHub:** [github.com/dhanush-devx](https://github.com/dhanush-devx)
+- 📧 **Email:** [dhanushonchain@gmail.com](mailto:dhanushonchain@gmail.com)
+- 🐦 **Twitter:** [@dhanushonchain](https://x.com/dhanushonchain)
+- 💼 **GitHub:** [github.com/dhanushonchain](https://github.com/dhanushonchain)
 
 ---
 
