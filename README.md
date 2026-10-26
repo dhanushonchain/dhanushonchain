@@ -18,6 +18,7 @@ I am a Computer Science student and Backend Engineer and web3 builder with over 
 I'm always open to collaborating on **Blockchain Engineering**, **Backend Systems**, and **Web3 AI** projects.
 
 - **Email:** [dhanushonchain@gmail.com](mailto:dhanushonchain@gmail.com)
-- **Twitter:** [@dhanushonchain](https://x.com/dhanushonchain)
+- **Twitter:** [dhanushonchain](https://x.com/dhanushonchain)
+- **PoW:** [https://dhanushonchain.notion.site/](https://dhanushonchain.notion.site/)
 
 > *"Building the bridge between decentralized technology and human adoption."*
