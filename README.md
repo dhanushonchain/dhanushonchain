@@ -19,6 +19,6 @@ I'm always open to collaborating on **Blockchain Engineering**, **Backend System
 
 - **Email:** [dhanushonchain@gmail.com](mailto:dhanushonchain@gmail.com)
 - **Twitter:** [dhanushonchain](https://x.com/dhanushonchain)
-- **PoW:** [https://dhanushonchain.notion.site/](https://dhanushonchain.notion.site/)
+- **PoW:** [dhanushonchain.notion.site](https://dhanushonchain.notion.site/)
 
 > *"Building the bridge between decentralized technology and human adoption."*
