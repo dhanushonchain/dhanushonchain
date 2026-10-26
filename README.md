@@ -6,7 +6,7 @@
 
 I am a Computer Science student and Backend Engineer and web3 builder with over more then 2 years of experience in the blockchain ecosystem. Unlike traditional developers, I bring deep community-led growth insights to my engineering process, having previously led community and marketing strategies for Stellar India and YieldFi by combining community first marketing with automation and analytics to improve engagement and user acquisition.
 
-## Tech Stack
+------
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dhanushonchain&show_icons=true&custom_title=dhanushonchain%20GitHub%20Stats&theme=dark&card_width=440" width="47%" alt="dhanushonchain GitHub Stats">
