@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Computer Science student and Backend Engineer and web3 builder with over 2 years of experience in the blockchain ecosystem. Unlike traditional developers, I bring deep community-led growth insights to my engineering process, having previously led community and marketing strategies for Stellar India and YieldFi by combining community first marketing with automation and analytics to improve engagement and user acquisition.
+I am a Computer Science student and Backend Engineer and web3 builder with over more then 2 years of experience in the blockchain ecosystem. Unlike traditional developers, I bring deep community-led growth insights to my engineering process, having previously led community and marketing strategies for Stellar India and YieldFi by combining community first marketing with automation and analytics to improve engagement and user acquisition.
 
 ## Tech Stack
 
@@ -15,7 +15,7 @@ I am a Computer Science student and Backend Engineer and web3 builder with over 
 
 ## Connect With Me
 
-I'm always open to collaborating on **Blockchain Engineering**, **Backend Systems**, and **Web3 AI** projects.
+I'm always open to collaborating on **Blockchain Engineering**, **Backend Systems**, and **Web3 & AI** projects.
 
 - **Email:** [dhanushonchain@gmail.com](mailto:dhanushonchain@gmail.com)
 - **Twitter:** [dhanushonchain](https://x.com/dhanushonchain)
