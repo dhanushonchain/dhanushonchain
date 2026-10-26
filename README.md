@@ -24,23 +24,6 @@ I focus on building scalable **backend systems**, **blockchain integrations**, a
 
 ---
 
-## Experience
-
-**Stellar India** | *Social & Community Lead* (1 Year)
-- Managed ecosystem growth and technical community engagement for Stellar India.
-- Implemented anti-spam protections and automated community workflows.
-- *Engineering Impact:* Built automation tools to manage community health metrics.
-
-**YieldFi** | *Marketing Strategist & Execution* (6 Months)
-- Executed go-to-market strategies for DeFi protocols.
-- *Engineering Impact:* Integrated analytics dashboards to track conversion optimization.
-
-**P2Pdotme** | *Community & Growth Intern* (5 Months)
-- Managed Telegram group moderation and anti-spam configuration.
-- Reported community health metrics and sentiment analysis.
-
----
-
 ## Connect With Me
 
 I'm always open to collaborating on **Blockchain Engineering**, **Backend Systems**, and **Web3 AI** projects.
