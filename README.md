@@ -1,4 +1,4 @@
-# Hi, I'm Dhanush Yangola
+<h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&color=58A6FF&vCenter=true&width=620&height=54&duration=2200&pause=1200&repeat=true&lines=Hi,+I'm+Dhanush+Yangola" alt="Hi, I'm Dhanush Yangola"></h1>
 
 ### Backend Developer | Builder | Community Builder | Social Media Management
 
