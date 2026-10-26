@@ -11,9 +11,13 @@
 
 ## 🧑‍💻 About Me
 
-I am a **Computer Science student** and **Web3 Engineer** with over 2 years of experience in the blockchain ecosystem. Unlike traditional developers, I bring deep **community-led growth insights** to my engineering process, having previously led community and marketing strategies for **Stellar India** and **YieldFi**.
+I help Web3 projects scale through community, marketing, and ecosystem development.
 
-I focus on building scalable **backend systems**, **blockchain integrations**, and **automation tools** that bridge the gap between complex protocol logic and user adoption. Currently exploring the intersection of **AI/LLMs** and **Zero-Knowledge proofs** on Starknet and Stellar.
+Over the past 2+ years, I've worked across marketing, community, and ecosystem development, building engaged communities, scaling social channels, managing ambassador programmes, and executing growth campaigns for Web3 projects.
+
+I've contributed to the growth of **Stellar India** and **YieldFi**, combining community first marketing with automation and analytics to improve engagement and user acquisition. Outside of online communities, I've organized **12+ blockchain events** across Mumbai in collaboration with leading ecosystems, connecting more than **1000+ builders, founders, and Web3 enthusiasts**.
+
+I'm excited by products that sit at the intersection of **Web3, AI, developer ecosystems, and community building.**
 
 ---
 
