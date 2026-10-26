@@ -12,6 +12,7 @@ I am a Computer Science student and Backend Engineer and web3 builder with over 
 <img src="https://github-readme-stats.vercel.app/api?username=dhanushonchain&show_icons=true&custom_title=dhanushonchain%20GitHub%20Stats&theme=dark&card_width=440" width="47%" alt="dhanushonchain GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushonchain&layout=compact&card_width=429&langs_count=7&theme=dark" width="47%" alt="Most Used Languages">
 <img src="https://streak-stats.demolab.com/?user=dhanushonchain&theme=dark&background=151515&card_width=440" width="47%" alt="GitHub Streak and Total Contributions">
+<img src="https://activity-graph.vercel.app/graph?username=dhanushonchain&custom_title=Commit%20Activity&bg_color=151515&border_color=e4e2e2&color=e4e2e2&line=4c71f2&point=4c71f2&area=true&radius=6&height=532" width="47%" alt="Commit activity graph">
 </p>
 
 ## Connect With Me
