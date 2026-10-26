@@ -1,6 +1,6 @@
 # Hi, I'm Dhanush Yangola
 
-### Blockchain Engineer | Backend Developer | Web3 Builder
+### Backend Developer | Builder | Community Builder | Social Media Management
 
 ## About Me
 
